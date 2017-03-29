@@ -9,9 +9,9 @@ BTW:
 
 # Download
 The Latest Release:
-+ [Windows Portable](https://github.com/xinyulab/cnki-downloader/releases/cnki-downloader-windows.zip)
-+ [Linux Portable](https://github.com/xinyulab/cnki-downloader/releases/cnki-downloader-linux.zip)
-+ [Mac Portable](https://github.com/xinyulab/cnki-downloader/releases/cnki-downloader-darwin.zip)
++ [Windows Portable](https://github.com/xinyulab/cnki-downloader/release/cnki-downloader-windows.zip)
++ [Linux Portable](https://github.com/xinyulab/cnki-downloader/release/cnki-downloader-linux.zip)
++ [Mac Portable](https://github.com/xinyulab/cnki-downloader/release/cnki-downloader-darwin.zip)
 
 # Q&A
 
