@@ -30,7 +30,7 @@ The Latest Release:
 # Usage
 Here is a gif picture, you can follow it, and it's really easy
 
-![image](https://github.com/xinyulab/cnki-downloader/screenshots/showcase2.gif)
+![image](https://github.com/xinyulab/cnki-downloader/blob/master/screenshots/showcase2.gif)
 
 # Notice
 CNKI http service could be unvailable in anytime (or forever, I don't know), you guys should know that kind of projects
